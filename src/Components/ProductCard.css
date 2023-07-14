@@ -1,0 +1,10 @@
+.card {
+  text-align: center;
+  border-style:groove ;
+}
+
+.img2 {
+  border-radius: 5%;
+  border-color: grey;
+  border-style: groove;
+}

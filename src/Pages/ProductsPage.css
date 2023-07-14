@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  bottom: 0;
+  text-align: center; 
+}
+
+h1 {
+  text-align: center;
+  font-size:400%;
+  font-family:cursive;
+  border-style: double;
+}
