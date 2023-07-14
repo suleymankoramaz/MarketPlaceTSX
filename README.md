@@ -1,3 +1,3 @@
 MARKET PLACE PROJECT
 
-React JavaScript
+React TypeScript
